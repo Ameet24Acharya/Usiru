@@ -23,7 +23,7 @@ export function Footer() {
             <h4>Explore</h4>
             <a href="/#living">Life at Usiru</a>
             <a href="/#story">Our Story</a>
-            <Link to="/faq">Good to Know</Link>
+            <Link to="/faq">FAQ</Link>
             <Link to="/blog">Blog</Link>
             <a href="/#visit">Book a Visit</a>
           </div>
